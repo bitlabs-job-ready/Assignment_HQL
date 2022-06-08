@@ -1,0 +1,7 @@
+1.Implement CRUD operations by using HQL queries.
+-Take the entity class name as User with following variables.
+	A.user_id;
+	B.user_name;
+	C.user_phone;
+-perform crud operations on student ,by using HQL query
+-use Criteria for apply aggregate values
